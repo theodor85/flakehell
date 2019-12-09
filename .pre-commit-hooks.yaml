@@ -1,0 +1,8 @@
+- id: flakehell
+  name: flakehell
+  description: "Flakehell: Flake8 wrapper to make it nice, legacy-friendly, configurable"
+  entry: flakehell
+  language: python
+  language_version: python3
+  require_serial: true
+  types: [python]
